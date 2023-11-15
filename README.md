@@ -1,0 +1,2 @@
+# Health-Insurance-Price_Prediction
+Growing insurance penetration across the world especially in the developing countries has opened up a spectrum of opportunities for both the existing and the budding enterprises in the health insurance sector. This project aims to equip such companies with a tool to automate insurance premium calculations based upon both qualitative and quantitative inputs from the customers. 
